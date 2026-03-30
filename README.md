@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 GRC Projects:</h2>
 - <b> Business Case to enhance Infosec Role (Business Continuity)</b>
-  - [Business Continuity Gap in Roles ](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Business Continuity Gap in Roles ](https://github.com/NajmaGRC/Infosec_Continuity/blob/main/Business_Case_InfoSec_Enhancement_Portfolio.pdf)
 
 
 <h2> 🤳 Connect with me:</h2>
