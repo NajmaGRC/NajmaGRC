@@ -12,7 +12,7 @@
 
 - <b>Compliance Projects (Understanding Compliance)</b>  - [Compliance Demos ]
   - (https://github.com/NajmaGRC/Compliance-)
-<h2> 🤳 Connect with me:</h2>
+<h2> 🤳 Connect with me on LinkedIn for observational posts based on my ICT background with a GRC lens:</h2>
 
 [<img align="left" alt="NajmaOmar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
@@ -23,6 +23,6 @@
 
 
 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+- ⚡ Fun fact: I naturally think in ‘what could go wrong?’ scenarios.
 -->
