@@ -8,7 +8,7 @@
   - (https://github.com/NajmaGRC/Infosec_Continuity/blob/main/Business_Case_InfoSec_Enhancement_Portfolio.pdf)
 
 - <b> Risk Management Projects (All Things Risk)</b>  - [Risk Management Process and Procedures]
-  - (https://github.com/NajmaGRC/Infosec_Continuity/blob/main/Business_Case_InfoSec_Enhancement_Portfolio.pdf)
+  - (https://github.com/NajmaGRC/Risk_Management-)
 
 - <b>Compliance Projects (Understanding Compliance)</b>  - [Compliance Demos ]
   - (https://github.com/NajmaGRC/Compliance-)
