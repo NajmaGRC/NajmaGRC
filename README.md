@@ -1,7 +1,8 @@
 <h1>Hi, I'm Najma! <br/><a href="https://github.com/NajmaGRC/NajmaGRC">GRC Proffesional</a>, <a href="https://www.linkedin.com/in/najma-abdi-omar-link-profile/">ICT Professional</a>, 
 
 <h2>👨‍💻 GRC Projects:</h2>
-
+- <b> Business Case to enhance Infosec Role (Business Continuity)</b>
+  - [Business Continuity Gap in Roles ](https://github.com/joshmadakor1/Algorithms-Practice)
 
 
 <h2> 🤳 Connect with me:</h2>
