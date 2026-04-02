@@ -24,5 +24,5 @@
 
 
 
-- ⚡ Fun fact: I naturally think in ‘what could go wrong?’ scenarios.
--->
+- ⚡ Fun fact:  1. I naturally think in ‘what could go wrong?’ scenarios.-->
+- ⚡ Fun fact: 2. I am multilingual: English|Swahili|Somali|Turkish|Arabic
