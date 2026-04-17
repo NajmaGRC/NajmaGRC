@@ -32,7 +32,7 @@ I operate at the intersection of IT Risk, Governance, and Technical Operations, 
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg)](https://www.linkedin.com/in/najma-abdi-omar-link-profile/)
+**LinkedIn:** [Najma Abdi Omar](https://www.linkedin.com/in/najma-abdi-omar-link-profile/)
 
 ---
 
