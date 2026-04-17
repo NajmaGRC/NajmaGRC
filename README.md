@@ -4,29 +4,40 @@ I operate at the intersection of IT Risk, Governance, and Technical Operations, 
 
 ---
 
-## 📁 GRC Projects
+## 📁 GRC Portfolio
 
-### 🔒 Business Continuity & InfoSec
-**Enhancing the InfoSec Role — Business Continuity Gap Analysis**
-[View Project →](https://github.com/NajmaGRC/Infosec_Continuity)
+### ☁️ AWS Integrated GRC Platform ⭐ Flagship Project
+Designed, deployed and governed a live enterprise-grade GRC platform on AWS — CloudFormation, Lambda, RDS, DynamoDB, CloudTrail, KMS. 22/22 tests passed.
+
+[View Project →](https://github.com/NajmaGRC/AWS-GRC-Platform)
 
 ---
 
-### 🏛️ Governance
-**Strategy-Led Governance Projects**
-[View Project →](https://github.com/NajmaGRC/Governance-Projects-)
+### 🚨 Incident Response Portfolio
+End-to-end IR programme — policy, plan, CSIRT structure, ransomware simulation, stakeholder communications, AAR and improvement plan.
+
+[View Project →](https://github.com/NajmaGRC/Incident-Response-Portfolio)
+
+---
+
+### ✅ Compliance Frameworks
+Compliance analysis, breach case studies and regulatory framework application.
+
+[View Project →](https://github.com/NajmaGRC/Compliance-)
 
 ---
 
 ### ⚠️ Risk Management
-**Risk Management Process and Procedures**
+Risk assessment, quantification, monitoring and management projects.
+
 [View Project →](https://github.com/NajmaGRC/Risk_Management-)
 
 ---
 
-### ✅ Compliance
-**Compliance Frameworks and Demonstrations**
-[View Project →](https://github.com/NajmaGRC/Compliance-)
+### 🏛️ Governance
+Strategy-led governance frameworks, policy development and InfoSec business cases.
+
+[View Project →](https://github.com/NajmaGRC/Governance-Projects-)
 
 ---
 
