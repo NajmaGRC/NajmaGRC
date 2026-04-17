@@ -1,28 +1,41 @@
-<h1>Hi, I'm Najma! <br/><a href="https://github.com/NajmaGRC/NajmaGRC">GRC </a> | <a href="https://www.linkedin.com/in/najma-abdi-omar-link-profile/">ICT Professional</a>, 
-<h1>I demonstrate GRC concepts in an easy to follow along projects :</h1>
-<h2>👨‍💻 GRC Projects:</h2>
-- <b> Business Case to enhance Infosec Role (Business Continuity)</b> - [Business Continuity Gap in Roles ]
-  - (https://github.com/NajmaGRC/Infosec_Continuity/blob/main/Business_Case_InfoSec_Enhancement_Portfolio.pdf)
-  
-- <b> Governance Related Projects (Strategy-Led)</b>  - [Structured Governance ]
-  - (https://github.com/NajmaGRC/Infosec_Continuity/blob/main/Business_Case_InfoSec_Enhancement_Portfolio.pdf)
+# Hi, I'm Najma! | GRC & ICT Professional
 
-- <b> Risk Management Projects (All Things Risk)</b>  - [Risk Management Process and Procedures]
-  - (https://github.com/NajmaGRC/Risk_Management-)
+I operate at the intersection of IT Risk, Governance, and Technical Operations, with 7+ years of experience in banking technology and regulated environments. I completed a 9-month intensive, skills-based GRC training programme and this portfolio showcases the practical work produced throughout that journey.
 
-- <b>Compliance Projects (Understanding Compliance)</b>  - [Compliance Demos ]
-  - (https://github.com/NajmaGRC/Compliance-)
-<h2> 🤳 Connect with me on LinkedIn for observational posts based on my ICT background with a GRC lens:</h2>
+---
 
-[<img align="left" alt="NajmaOmar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+## 📁 GRC Projects
 
+### 🔒 Business Continuity & InfoSec
+**Enhancing the InfoSec Role — Business Continuity Gap Analysis**
+[View Project →](https://github.com/NajmaGRC/Infosec_Continuity)
 
+---
 
-[linkedin]:https://www.linkedin.com/in/najma-abdi-omar-link-profile/
+### 🏛️ Governance
+**Strategy-Led Governance Projects**
+[View Project →](https://github.com/NajmaGRC/Governance-Projects-)
 
+---
 
+### ⚠️ Risk Management
+**Risk Management Process and Procedures**
+[View Project →](https://github.com/NajmaGRC/Risk_Management-)
 
+---
 
+### ✅ Compliance
+**Compliance Frameworks and Demonstrations**
+[View Project →](https://github.com/NajmaGRC/Compliance-)
 
-- ⚡ Fun fact:  1. I naturally think in ‘what could go wrong?’ scenarios.-->
-- ⚡ Fun fact: 2. I am multilingual: English|Swahili|Somali|Turkish|Arabic
+---
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg)](https://www.linkedin.com/in/najma-abdi-omar-link-profile/)
+
+---
+
+## ⚡ Fun Facts
+- I naturally think in *"what could go wrong?"* scenarios
+- Multilingual: English | Swahili | Somali | Turkish | Arabic
