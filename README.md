@@ -23,21 +23,21 @@ End-to-end IR programme — policy, plan, CSIRT structure, ransomware simulation
 ### ✅ Compliance Frameworks
 Compliance analysis, breach case studies and regulatory framework application.
 
-[View Project →](https://github.com/NajmaGRC/Compliance-)
+[View Project →](https://github.com/NajmaGRC/Compliance-Frameworks)
 
 ---
 
 ### ⚠️ Risk Management
 Risk assessment, quantification, monitoring and management projects.
 
-[View Project →](https://github.com/NajmaGRC/Risk_Management-)
+[View Project →](https://github.com/NajmaGRC/Risk-Assessment-Labs)
 
 ---
 
 ### 🏛️ Governance
 Strategy-led governance frameworks, policy development and InfoSec business cases.
 
-[View Project →](https://github.com/NajmaGRC/Governance-Projects-)
+[View Project →](https://github.com/NajmaGRC/GRC-Governance)
 
 ---
 
