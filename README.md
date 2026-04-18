@@ -1,52 +1,50 @@
-# Hi, I'm Najma! | GRC & ICT Professional
+# Najma Abdi Omar | ICT Business Analyst & GRC Professional
 
-I operate at the intersection of IT Risk, Governance, and Technical Operations, with 7+ years of experience in banking technology and regulated environments. I completed a 9-month intensive, skills-based GRC training programme and this portfolio showcases the practical work produced throughout that journey.
+> *I find where systems, risk and reality don't match — and fix it.*
 
----
-
-## 📁 GRC Portfolio
-
-### ☁️ AWS Integrated GRC Platform ⭐ Flagship Project
-Designed, deployed and governed a live enterprise-grade GRC platform on AWS — CloudFormation, Lambda, RDS, DynamoDB, CloudTrail, KMS. 22/22 tests passed.
-
-[View Project →](https://github.com/NajmaGRC/AWS-GRC-Platform)
+7+ years in banking technology and regulated environments. This portfolio documents 9 months of intensive, skills-based GRC training — from foundational frameworks to a live AWS cloud deployment.
 
 ---
 
-### 🚨 Incident Response Portfolio
-End-to-end IR programme — policy, plan, CSIRT structure, ransomware simulation, stakeholder communications, AAR and improvement plan.
+## ☁️ AWS Integrated GRC Platform &nbsp;⭐ Flagship
+Designed, deployed and governed a live enterprise-grade GRC platform on AWS. CloudFormation, Lambda, RDS, DynamoDB, CloudTrail, KMS. 22/22 automated tests passed. 49 compliance reports generated.
 
-[View Project →](https://github.com/NajmaGRC/Incident-Response-Portfolio)
-
----
-
-### ✅ Compliance Frameworks
-Compliance analysis, breach case studies and regulatory framework application.
-
-[View Project →](https://github.com/NajmaGRC/Compliance-Frameworks)
+**[View Project →](https://github.com/NajmaGRC/AWS-GRC-Platform)**
 
 ---
 
-### ⚠️ Risk Management
-Risk assessment, quantification, monitoring and management projects.
+## 🚨 Incident Response Portfolio
+End-to-end IR programme — policy, response plan, CSIRT structure, live ransomware simulation, stakeholder communications, after-action review and improvement plan.
 
-[View Project →](https://github.com/NajmaGRC/Risk-Assessment-Labs)
-
----
-
-### 🏛️ Governance
-Strategy-led governance frameworks, policy development and InfoSec business cases.
-
-[View Project →](https://github.com/NajmaGRC/GRC-Governance)
+**[View Project →](https://github.com/NajmaGRC/Incident-Response-Portfolio)**
 
 ---
 
-## 🌐 Connect With Me
+## ✅ Compliance Frameworks & Breach Analysis
+Comparative breach analysis (Worldcoin Kenya vs MGM Resorts), compliance crisis management under AML + PCI DSS violations, and institutional security policy development.
+
+**[View Project →](https://github.com/NajmaGRC/Compliance-Frameworks)**
+
+---
+
+## ⚠️ Risk Assessment Labs
+Quantitative risk analysis (ALE/SLE/ARO), phishing simulation metrics, live Wazuh SIEM deployment, small business risk assessment and M365 project risk register.
+
+**[View Project →](https://github.com/NajmaGRC/Risk-Assessment-Labs)**
+
+---
+
+## 🏛️ GRC Governance Portfolio
+GRC framework design, multi-jurisdictional regulatory mapping, CISO leadership analysis, SIEM log analysis and security integration into healthcare business processes.
+
+**[View Project →](https://github.com/NajmaGRC/GRC-Governance)**
+
+---
+
+## 🌐 Connect
 
 **LinkedIn:** [Najma Abdi Omar](https://www.linkedin.com/in/najma-abdi-omar-link-profile/)
 
 ---
 
-## ⚡ Fun Facts
-- I naturally think in *"what could go wrong?"* scenarios
-- Multilingual: English | Swahili | Somali | Turkish | Arabic
+*Multilingual: English · Swahili · Somali · Turkish · Arabic*
